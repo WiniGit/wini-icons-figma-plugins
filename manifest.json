@@ -1,0 +1,17 @@
+{
+  "name": "Wini icons",
+  "id": "1430393781789214411",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui":"ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": ["*"],
+    "reasoning": "a"
+  }
+}
